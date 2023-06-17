@@ -18,8 +18,7 @@ with col2:
     entry-level Software engineer with a strong foundation in programming 
     and problem-solving. My proficiency lies in languages such as Python, 
     Java, C++, C, and Javascript. I possess a solid understanding of software 
-    development principles, algorithms, and data structures. Alongside my 
-    technical skills, I excel in collaboration and communication, and I have a 
+    development principles, algorithms, and data structures. I have a 
     passion for learning and staying updated with emerging technologies. 
     My commitment lies in delivering high-quality code and continually 
     improving software solutions. I am now actively seeking an opportunity to 
@@ -27,3 +26,9 @@ with col2:
     enhance my skills in software engineering.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. 
+Feel free to contact me!
+"""
+st.write(content2)
