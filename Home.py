@@ -28,6 +28,16 @@ with col2:
     """
     st.info(content)
 
+st.write(
+    """<style>
+    [data-testid="stHorizontalBlock"] {
+        align-items: center;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 content2 = """
 Below you can find some of the apps I have built in Python. 
 Feel free to contact me!
