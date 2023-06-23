@@ -13,7 +13,7 @@ with col1:
 with col2:
     st.title("Jessie Lyu")
     content = """
-    Hi, I am Jessie, a recent software engineering bachelor's 
+    Hi, I am Jessie, a recent computer science bachelor's 
     graduate from San Jose State University with two years of experience in 
     software development. I am highly motivated and detail-oriented 
     entry-level Software engineer with a strong foundation in programming 
